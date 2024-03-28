@@ -23,6 +23,16 @@
         "id": "https://walshbr.github.io/ellington-test/ellington-test/canvas-1/canvas",
         "type": "Canvas",
         "duration": 181.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://walshbr.github.io/ellington-test/annotations/ellington-test-canvas-1-.json",
+            "label": {
+              "none": [""]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://walshbr.github.io/ellington-test/ellington-test/canvas-1/paintings",
