@@ -22,7 +22,7 @@
       {
         "id": "https://walshbr.github.io/ellington-test/test/canvas-1/canvas",
         "type": "Canvas",
-        "duration": 310.0,
+        "duration": 305.0,
         "items": [
           {
             "id": "https://walshbr.github.io/ellington-test/test/canvas-1/paintings",
@@ -36,7 +36,7 @@
                   "id": "https://ia803204.us.archive.org/34/items/Camille1921/Camille%201921.mp4",
                     "type": "Video",
                     "format": "video/mp4",
-                    "duration": 310.0
+                    "duration": 305.0
                 },
                 "target": "https://walshbr.github.io/ellington-test/test/canvas-1/canvas"
               }
