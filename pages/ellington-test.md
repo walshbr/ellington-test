@@ -1,5 +1,5 @@
 ---
-layout: aviary
+layout: item
 title: Ellington Test
 manifest_name: ellington-test
 permalink: ellington-test
